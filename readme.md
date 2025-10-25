@@ -1,4 +1,3 @@
-```
 # 💤 LazyVim + My Dotfiles
 
 Welcome to my personal Neovim setup powered by [LazyVim](https://www.lazyvim.org/)!
